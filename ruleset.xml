@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ruleset name="FFMM1Standards">
+    <description>FitForMe Magento1 standards</description>
+    <rule ref="PSR1">
+        <exclude name="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
+        <exclude name="Squiz.Classes.ValidClassName.NotCamelCaps"/>
+    </rule>
+</ruleset>

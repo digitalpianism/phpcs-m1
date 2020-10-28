@@ -1,0 +1,15 @@
+{
+    "name": "digitalpianism/phpcs-m1",
+    "description": "A PHPCS ruleset for M1 modules",
+    "license":"OSL-3.0",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=7.0"
+    },
+    "authors":[
+    {
+      "name":"Raphael Petrini",
+      "email":"contact@digital-pianism.com"
+    }
+  ]
+}
