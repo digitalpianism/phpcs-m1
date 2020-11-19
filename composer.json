@@ -2,7 +2,7 @@
     "name": "digitalpianism/phpcs-m1",
     "description": "A PHPCS ruleset for M1 modules",
     "license":"OSL-3.0",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "require": {
         "php": ">=7.0"
     },
